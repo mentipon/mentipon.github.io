@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mentipon.github.io/mentipon.txt.gz
+Sitemap: https://mentipon.github.io/app/mentipon.txt.gz
+Sitemap: https://mentipon.github.io/assets/mentipon.txt.gz
+Sitemap: https://mentipon.github.io/css/mentipon.txt.gz
+Sitemap: https://mentipon.github.io/includes/mentipon.txt.gz
+Sitemap: https://mentipon.github.io/item/mentipon.txt.gz
+Sitemap: https://mentipon.github.io/src/mentipon.txt.gz
